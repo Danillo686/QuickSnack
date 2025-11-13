@@ -6,3 +6,9 @@ npm install @react-navigation/drawer react-native-gesture-handler react-native-r
 react-native-screens
 
 react-native-safe-area-context
+
+
+caso de erro coloque no terminal isso aqui:
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
+npm install @react-navigation/native-stack
