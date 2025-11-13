@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function Aluno() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>ALUINOOOOOOOOOOO</Text>
+      <Text style={styles.title}>Área do Aluno</Text>
     </View>
   );
 }
